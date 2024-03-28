@@ -1,8 +1,0 @@
-name , sid , rollno
-Rohith , 2012, 1
-Anil , 2011, 1
-Srihan, 2010 , 2
-Aadrik , 2009 , 3
-Moki , 2008 , 4
-Darshik , 2007 , 1
-
